@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satya Naga Sujith</h1>
 <h3 align="center">A passionate Boomi Integration Developer from India</h3>
 
-- 🔭 I’m currently working on **On-premise & Cloud Integrations using Boomi IPaas**
+- 🔭 I’m currently learning on **On-premise & Cloud Integrations using Boomi IPaas**
 
 - 🌱 I’m currently learning **Data-Visualization Tools & Website Development**
 
